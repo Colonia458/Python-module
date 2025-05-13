@@ -1,4 +1,4 @@
-# Task 1:
+  # Task 1:
 # Write a program that accepts user input to create a list of integers. 
 # Then, compute the sum of all the integers in the list.
 
