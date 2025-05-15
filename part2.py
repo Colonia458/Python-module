@@ -52,4 +52,3 @@ plane = Plane("Chopper", "Air")
 
 car.move()
 plane.move()
-
