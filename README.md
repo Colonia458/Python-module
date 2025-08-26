@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="Python_Module_For_PLP%20(1).png" width="700"/>
+  <img src="https://github.com/Colonia458/Python-module/blob/main/Python_Module_For_PLP%20(1).png" width="700"/>
     
   ![Static Badge](https://img.shields.io/badge/Python%20-%207.1%25%20-%20turquoise?style=for-the-badge&logo=Python&labelColor=%23edf2f4&color=%23ef233c)
   ![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook%20-%2092.9%25%20-%20orange?style=for-the-badge&logo=Jupyter&labelColor=%23edf2f4&color=%232b2d42)
@@ -20,7 +20,7 @@ The goal of this repository is to track my progress and provide a clear overview
 
 
 <div>
-  <img src = "carbon.png"/>
+  <img src = "https://github.com/Colonia458/Python-module/blob/main/carbon.png"/>
   
 </div>
 
