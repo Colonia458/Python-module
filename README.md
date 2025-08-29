@@ -36,7 +36,7 @@ Each link will take you to the assignment file.
 | Assignment 2 | [**`Week 2 Assignment`**](https://github.com/Colonia458/Python-module/blob/main/Assignment%202.py) |
 | Assignment 3 | [**`Week 3 Assignment`**](https://github.com/Colonia458/Python-module/blob/main/Assignment-3.py) |
 | Assignment 4 | [**`Week 4 Assignment`**](https://github.com/Colonia458/Python-module/blob/main/input2.py) |
-| Assignment 5 | [**`Week 5 Assignment`**](https://github.com/Colonia458/Python-module/blob/main/myList.py) |
+| Assignment 5 | [**`Week 5 Assignment`**](https://github.com/Colonia458/Python-module/blob/main/Assignment-5.py) |
 
 ***
 
